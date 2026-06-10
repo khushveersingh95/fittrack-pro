@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Barbell Shaft -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M24,51h60v6h-60z" />
+    <!-- Left Inner Collar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,42h4v24h-4z" />
+    <!-- Left Plates -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M24,34h8v40h-8z" />
+    <path
+        android:fillColor="#E7E0EC"
+        android:pathData="M16,30h6v48h-6z" />
+    <!-- Right Inner Collar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,42h4v24h-4z" />
+    <!-- Right Plates -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M76,34h8v40h-8z" />
+    <path
+        android:fillColor="#E7E0EC"
+        android:pathData="M86,30h6v48h-6z" />
+    <!-- Gold Star accent -->
+    <path
+        android:fillColor="#E0A300"
+        android:pathData="M54,30l3,7l7,1l-5,5l2,7l-7,-4l-7,4l2,-7l-5,-5l7,-1z" />
+</vector>

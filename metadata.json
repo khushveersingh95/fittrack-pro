@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack Pro",
+  "description": "FitTrack Pro is a complete native Android application for tracking workouts, diet, water intake, weight progress, sleep logs, habits, and body measurements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
